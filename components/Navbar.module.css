@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    background-color: pink;
+  }
+  
+  .ul{
+    display: flex;
+    gap: 24px;
+    list-style: none;
+  }
+  
